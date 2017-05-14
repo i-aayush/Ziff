@@ -1,3 +1,5 @@
+@ author: ayuc140
+
 # loading packages
 library(tidyverse)
 library(text2vec)
